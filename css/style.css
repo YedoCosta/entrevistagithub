@@ -1,3 +1,13 @@
+header{
+    width: 725px;
+    height: 100px;
+    background-color: #000000;
+}
+header #logo{
+    text-align: center;
+    padding-top: 10px;
+}
+
 #comandos{
     background-color: rgb(186, 166, 206);
 }
