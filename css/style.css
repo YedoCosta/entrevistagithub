@@ -7,6 +7,37 @@ header #logo{
     text-align: center;
     padding-top: 10px;
 }
+/*==== pai  ==== 
+#menu-lateral{
+    background-color: gray;
+    width: 159px;
+}*/
+/*== filho
+nav{
+    background-color: aqua;
+}*/
+/* ==== neto ==
+nav ul{
+    background-color: blue;
+
+}*/
+/* ==== bisneto =====*/
+nav ul li{
+    text-transform: uppercase;    
+
+}
+/* ==  tataraneto
+nav ul li a{
+    background-color: yellow;
+} */
+
+#menu-lateral nav ul li{
+    padding-top: 20px;
+    font-size: 14px;
+}
+#menu-lateral nav ul li a{
+    text-decoration: none;
+}
 
 #comandos{
     background-color: rgb(186, 166, 206);
