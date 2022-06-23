@@ -38,7 +38,7 @@ nav ul li a{
 
 #menu-lateral nav ul li{
     padding-top: 2px;
-    font-size: 14px;
+    font-size: 12px;
 }
 #menu-lateral nav ul li a{
     color: black;
@@ -61,9 +61,9 @@ nav ul li a{
     margin-bottom: 100%;
 }
 #area-principal{
-    width: 1720px;
+    width: 1150px;
     border: 2px solid lightcoral;
-    height:785px;
+    height:600px;
     margin-left: 190px;
     background-color: aquamarine;
 
