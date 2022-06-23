@@ -11,3 +11,7 @@ header #logo{
 #comandos{
     background-color: rgb(186, 166, 206);
 }
+#menu-lateral li{
+    list-style-type: none; 
+</style>
+}
