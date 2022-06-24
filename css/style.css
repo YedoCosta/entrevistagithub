@@ -60,12 +60,15 @@ nav ul li a{
     margin-left: 50px;
     margin-bottom: 100%;
 }
+#area-principal p{
+    margin-left: 50px;
+    margin-bottom: 100%;
+}
 #area-principal{
     /* width: 1150px; */
     width: 1700px;
     border: 2px solid lightcoral;
-    /* height:600px; */
-    height:800px;
+    height:600px; 
     margin-left: 190px;
    /*background-color: aquamarine;*/
 
@@ -79,3 +82,13 @@ nav ul li a{
     height: 35px;
     font-size:12px;
 }
+.postit-laranja{
+    
+}
+
+#draggable { 
+    width: 75px;
+    height: 75px;
+    color: orange;
+    border: 2px solid black;
+ }
