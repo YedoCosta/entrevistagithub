@@ -61,9 +61,11 @@ nav ul li a{
     margin-bottom: 100%;
 }
 #area-principal{
-    width: 1150px;
+    /* width: 1150px; */
+    width: 1700px;
     border: 2px solid lightcoral;
-    height:600px;
+    /* height:600px; */
+    height:800px;
     margin-left: 190px;
    /*background-color: aquamarine;*/
 
