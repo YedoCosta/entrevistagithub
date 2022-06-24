@@ -56,14 +56,7 @@ nav ul li a{
 #menu-lateral li{
     list-style-type: none; 
 }
-#area-principal h1{
-    margin-left: 50px;
-    margin-bottom: 100%;
-}
-#area-principal p{
-    margin-left: 50px;
-    margin-bottom: 100%;
-}
+
 #area-principal{
     /* width: 1150px; */
     width: 1700px;
@@ -82,9 +75,6 @@ nav ul li a{
     height: 35px;
     font-size:12px;
 }
-.postit-laranja{
-    
-}
 
 #draggable { 
     width: 75px;
@@ -92,3 +82,44 @@ nav ul li a{
     color: orange;
     border: 2px solid black;
  }
+
+ #paragrafos {
+    font size:12px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    width:1010px;
+    height:500px;
+
+}
+
+.texto-azul {
+    font size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    color:blue;
+
+
+}
+
+
+.texto-rosa {
+    font size: 12px;
+    font-family:'Times New Roman', Times, serif;
+    color:pink;
+
+
+}
+
+.texto-vermelho {
+    font size: 12px;
+    font-family:'Times New Roman', Times, serif;
+    color:red;
+
+
+}
+
+.texto-verde {
+    font size: 12px;
+    font-family:'Times New Roman', Times, serif;
+    color:green;
+
+}
