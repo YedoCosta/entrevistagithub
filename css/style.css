@@ -89,15 +89,12 @@ nav ul li a{
     color:black;
     width:1010px;
     height:500px;
-
 }
 
 .texto-azul {
     font size: 12px;
     font-family: 'Times New Roman', Times, serif;
     color:blue;
-
-
 }
 
 
@@ -105,21 +102,16 @@ nav ul li a{
     font size: 12px;
     font-family:'Times New Roman', Times, serif;
     color:pink;
-
-
 }
 
 .texto-vermelho {
     font size: 12px;
     font-family:'Times New Roman', Times, serif;
     color:red;
-
-
 }
 
 .texto-verde {
     font size: 12px;
     font-family:'Times New Roman', Times, serif;
     color:green;
-
 }
